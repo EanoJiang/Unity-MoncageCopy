@@ -1,3 +1,11 @@
+> github仓库：[EanoJiang/Unity-MoncageCopy: 笼中窥梦Shader复刻](https://github.com/EanoJiang/Unity-MoncageCopy)
+>
+> 博客：[笼中窥梦复刻 - EanoJiang - 博客园](https://www.cnblogs.com/eanojiang/p/18908897)
+
+效果：![演示](https://img2023.cnblogs.com/blog/3614909/202506/3614909-20250603175509819-1845953759.gif)
+
+
+
 # 模板测试
 
 Buffer(缓存)
